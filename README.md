@@ -1,2 +1,2 @@
 # AudioMuseToJellyfin
-An attempt at a docker solution to move audiomuse metadata into jellyfin metadata.
+An attempt at a python script to move audiomuse metadata into jellyfin metadata.
